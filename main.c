@@ -2,7 +2,7 @@
 /**
   ******************************************************************************
   * @file           : main.c
-  * @author			: Abdullah Enes Dag
+  * @author			    : Abdullah Enes Dag
   * @brief          : Main program body
   ******************************************************************************
   * @attention
@@ -51,10 +51,6 @@ int right, left, bottom, top, farkRightLeft = 240, farkTopBottom = 240;
 uint32_t mot1 = 4000, mot2 = 6000;
 uint32_t data[4];
 uint32_t adcbuffer[4];
-char yazi1[16] = " ";
-char yazi2[16] = " ";
-char yazi3[16] = " ";
-char yazi4[16] = " ";
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
